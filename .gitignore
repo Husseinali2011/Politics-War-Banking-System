@@ -18,6 +18,15 @@ lib/
 lib64/
 parts/
 sdist/
+
+# Environment variables
+.env
+
+# Virtual environments
+.venv/
+
+# Database
+banking.db
 var/
 wheels/
 share/python-wheels/
